@@ -51,6 +51,10 @@ Ensure that the dataset is split into training and testing sets, and the images 
 
 Link for dataset used by me: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/)
 
+## cell output
+![image](https://github.com/user-attachments/assets/147d2151-4300-4835-87aa-8258ade3320f)
+
+
 ## Usage
 
 To use this code for brain detection, follow these steps:
