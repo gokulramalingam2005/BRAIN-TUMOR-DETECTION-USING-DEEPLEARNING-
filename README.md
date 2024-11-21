@@ -9,14 +9,6 @@ The detection of brain tumors from MRI scans plays a crucial role in early diagn
 ## Model Architecture
 The model architecture consists of a CNN with several convolutional and pooling layers followed by fully connected layers. The final layer uses a sigmoid activation function to output a binary classification result.
 
-## Setup and Usage
-To set up and run the model, follow these steps:
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies listed in the requirements.txt file.
-3. Ensure that your dataset is organized as described in the data preprocessing script.
-4. Run the training script (train.py) to train the model on your dataset.
-5. Evaluate the trained model using the evaluation script (evaluation.py).
-6. Optionally, use the visualization scripts to visualize the model's predictions and performance metrics.
 
 ## Repository Structure
 - `README.md`: Provides an overview of the project, setup instructions, and usage guidelines.
